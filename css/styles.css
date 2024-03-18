@@ -4219,6 +4219,14 @@ textarea.form-control-lg {
   margin-bottom: 0;
 }
 
+.card-text{
+  font-size: 3vw;
+}
+
+.btn{
+  font-size: 3vw;
+}
+
 .card-text:last-child {
   margin-bottom: 0;
 }
@@ -4365,7 +4373,6 @@ textarea.form-control-lg {
   align-items: center;
   width: 100%;
   padding: var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);
-  font-size: 1rem;
   color: var(--bs-accordion-btn-color);
   text-align: left;
   background-color: var(--bs-accordion-btn-bg);
@@ -11040,7 +11047,7 @@ html{
 }
 
 .accordion-button{
-  font-size: 2vw;
+  font-size: 4vw;
 }
 
 #django_img{
@@ -11056,12 +11063,16 @@ html{
   width: 100%;
 }
 
+.resume-section-content b{
+  font-size: 4vw;
+}
+
 #proyectos{
   display: flex;
 }
 
 .accordion-body{
-  font-size: 1.5vw;
+  font-size: 3vw;
 }
 
 @keyframes show {
@@ -11073,6 +11084,10 @@ html{
     opacity: 1;
     scale: 100%;
   }
+}
+
+.descripcion{
+  font-size: 3vw;
 }
 
 section{

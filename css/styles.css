@@ -4220,11 +4220,15 @@ textarea.form-control-lg {
 }
 
 .card-text{
-  font-size: 3vw;
+  font-size: 1.5rem;
 }
 
 .btn{
-  font-size: 3vw;
+  font-size: 1.5rem;
+}
+
+.year{
+  font-size: 1rem;
 }
 
 .card-text:last-child {
@@ -11047,7 +11051,7 @@ html{
 }
 
 .accordion-button{
-  font-size: 4vw;
+  font-size: 2.5rem;
 }
 
 #django_img{
@@ -11064,7 +11068,7 @@ html{
 }
 
 .resume-section-content b{
-  font-size: 4vw;
+  font-size: 1.5rem;
 }
 
 #proyectos{
@@ -11072,7 +11076,7 @@ html{
 }
 
 .accordion-body{
-  font-size: 3vw;
+  font-size:1.6rem;
 }
 
 @keyframes show {
@@ -11087,7 +11091,7 @@ html{
 }
 
 .descripcion{
-  font-size: 3vw;
+  font-size: 1.5rem;
 }
 
 section{
